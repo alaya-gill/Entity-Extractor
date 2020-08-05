@@ -1,0 +1,55 @@
+Classification,Entry and progression requirements,Maximum duration of technology cadetship,
+Technology Cadet- Stage 1,A person at this level is undertaking a contract of training as a Technology Cadet at AQF 3 Level. At the conclusion of this Stage the person will have successfully completed the qualification.,"Subject to clause 17.2(d) Stage 1 of the Technology Cadetship must not exceed 12 months. Provided that,where there has been unsatisfactory progress in training,this period may be extended by agreement between the employer and the Technology Cadet to 18 months.",
+Technology Cadet–Stage 2,A person at this level is undertaking a contract of training as a Technology Cadet at AQF 4 Level. At the conclusion of this Stage the person will have successfully completed the qualification.,"Where a Technology Cadet has completed Stage 1 and progresses to Stage 2 then,subject to clause 17.2(d),Stage 2 of the Technology Cadetship must not exceed one year. Provided that,where there has been unsatisfactory progress in training,this period may be extended by agreement between the employer and the Technology Cadet to 18 months.Where a Technology Cadet enters the Cadetship at Stage 2 then,subject to clause 17.2(d),Stage 2 of the Technology Cadetship must not exceed two years. Provided that,where there has been unsatisfactory progress in training,this period may be extended by agreement between the employer and the Technology Cadet to two and a half years.",
+Technology Cadet–Stage 3,A person at this level is undertaking a contract of training as a Technology Cadet at AQF 5 Level. At the conclusion of this stage the person will have successfully completed the qualification.,"Where a Technology Cadet has completed Stage 2 and progresses to Stage 3 then,subject to clause 17.2(d),Stage 3 of the Technology Cadetship must not exceed one year. Provided that,where there has been unsatisfactory progress in training,this period may be extended by agreement between the employer and the Technology Cadet to 18 months.",
+Technology Cadet–Stage 4,A person at this level is undertaking a contract of training as a Technology Cadet at AQF 6 Level. At the conclusion of this Stage the person will have successfully completed the qualification.,"Where a Technology Cadet has completed Stage 3 and progresses to Stage 4 then,subject to clause 17.2(d),Stage 4 of the Technology Cadetship must not exceed one year. Provided that,where there has been unsatisfactory progress in training,this period may be extended by agreement between the employer and the Technology Cadet to 18 months.",
+Classification level,Minimum weekly wage,Minimum hourly wage,
+C14,740.80,19.49,
+C13,762.10,20.06,
+C12,791.30,20.82,
+C11,818.50,21.54,
+C10,862.50,22.70,
+C9,889.50,23.41,
+C8,916.60,24.12,
+C7,941.10,24.77,
+C6,988.80,26.02,
+C5,1009.00,26.55,
+C4,1036.10,27.27,
+C3,1090.40,28.69,
+C2(a),1117.60,29.41,
+C2(b),1166.40,30.69,
+Classification level,Recommended points,,
+C14,-,,
+C13,-,,
+C12,Mandatory units plus 30 points,,
+C11,Mandatory units plus 53 points,,
+C10,Mandatory units plus 76 points,,
+C9,12 additional points above C10,,
+C8,24 additional points above C10,,
+C7,36 additional points above C10,,
+C6,48 additional points above C10,,
+C5,60 additional points above C10 including mandatory units,,
+C4,Standards to be finalised,,
+C3,Standards to be finalised,,
+C2a,Standards to be finalised,,
+C2b,Standards to be finalised,,
+Classification,Amount of the standard rate,,
+Tradespersons,75.5% per week extra,,
+All other employees,61.1% per week extra,,
+Classification levels,Classification title,Minimum training requirement,Wage relativity to C10(see clause B.2.2)
+C1,Professional Engineer Professional Scientist,Degree,180/210%
+C2(b),Principal Technical Officer,Advanced Diploma or equivalent and sufficient additional training so as to enable the employee to meet the requirements of the relevant classification definition and to perform work within the scope of this level.,160%
+C2(a),Leading Technical Officer,Advanced Diploma or equivalent and sufficient additional training so as to enable the employee to meet the requirements of the relevant classification definition and to perform work within the scope of this level.,150%
+C3,Engineering Associate/ Laboratory Technical Officer—Level II,"Advanced Diploma of Engineering,or equivalent.",145%
+C4,Engineering Associate/ Laboratory Technical Officer—Level 1,"80% towards an Advanced Diploma of Engineering,or equivalent.",135%
+C5,Advanced Engineering Tradesperson—Level II,"Diploma of Engineering—Advanced Trade,or equivalent.",130%
+C6,Advanced Engineering Tradesperson—Level 1,"C10 + 80% towards a Diploma of Engineering—Advanced Trade,or equivalent.",125%
+C7,Engineering/ Manufacturing Tradesperson—Special Class Level II,"Certificate IV in Engineering,or C10 + 60% towards a Diploma of Engineering,or equivalent.",115%
+C8,Engineering/ Manufacturing Tradesperson—Special Class Level I,"C10 + 40% towards a Diploma of Engineering,or equivalent",110%
+C9,Engineering/ Manufacturing Tradesperson—Level II,C10 + 20% towards a Diploma of Engineering or equivalent,105%
+C10,Engineering/ Manufacturing Tradesperson—Level I,"Recognised Trade Certificate,or Certificate III in Engineering—Mechanical Trade,or Certificate III in Engineering—Fabrication Trade,or Certificate III in Engineering—Electrical/Electronic Trade,or equivalent",100%
+C11,Engineering/ Manufacturing Employee—Level IV,"Engineering Production Certificate II,or Certificate II in Engineering—Production Technology,or Certificate II in Sampling and Measurement,or equivalent",92.4%
+Laboratory Tester,,,
+C12,Engineering/ Manufacturing Employee—Level III,"Engineering Production Certificate I or Certificate II in Engineering,or equivalent",87.4%
+C13,Engineering/ Manufacturing Employee—Level II,In-house training,82%
+C14,Engineering/ Manufacturing Employee—Level 1,Up to 38 hours induction training,78%

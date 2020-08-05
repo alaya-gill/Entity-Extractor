@@ -1,0 +1,50 @@
+[type="file"] {
+  width: 50;
+  background: #f15d22;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+	font-family: 'Poppins', sans-serif;
+	font-size: inherit;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  outline: none;
+  padding: 10px;
+  position: relative;
+  transition: all 0.3s;
+  vertical-align: middle;
+}
+#score{
+  width: 50;
+  background: #f15d22;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+	font-family: 'Poppins', sans-serif;
+	font-size: inherit;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  outline: none;
+  padding: 10px;
+  position: relative;
+  transition: all 0.3s;
+  vertical-align: middle;
+}
+.color-nav{
+  background-color: #1999d5;
+}
+#load{
+  margin: auto;
+}
+#btn-1{
+  margin-left: 350px;
+}
+#btn-2{
+  margin-left: 450px;
+}
+#btn-3{
+  align-self: center;
+}
+#div{
+  background-color: aliceblue;
+}

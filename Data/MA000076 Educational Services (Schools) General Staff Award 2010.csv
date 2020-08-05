@@ -1,0 +1,39 @@
+Classification level,Weekly rate,Annual salary
+Level 1,,
+1.1,762.10,"39,766"
+1.2,791.30,"41,290"
+1.3,820.20,"42,798"
+Level 2,,
+2.1,826.60,"43,132"
+2.2,852.40,"44,478"
+Level 3,,
+3.1,863.00,"45,031"
+3.2,878.50,"45,840"
+Level 4,,
+4.1,911.00,"47,536"
+4.2,956.70,"49,921"
+Level 5,,
+5.1,987.70,"51,538"
+5.2,1035.00,"54,006"
+Level 6,,
+6.1,1072.10,"55,942"
+6.2,1145.20,"59,757"
+Level 7,,
+7.1,1178.70,"61,505"
+7.2,1216.50,"63,477"
+7.3,1254.10,"65,439"
+Level 8,1365.80,"71,267"
+Classification,Commencement level ,
+School operations services grade 1,Level 1.1,
+School administration services grade 1,Level 1.2,
+Classroom support services grade 1Preschool/childcare services grade 1,Level 1.3,
+Classroom support services grade 2Curriculum/resources services grade 1Preschool/childcare services grade 2Boarding supervision services grade 1Wellbeing services grade 1School administration services grade 2School operational services grade 2Instructional services grade 1,Level 2.1,
+Classroom support services grade 3Curriculum/resources services grade 2Preschool/childcare services grade 3Boarding supervision services grade 2School administration services grade 3School operational services grade 3Instructional services grade 2,Level 3.1,
+Curriculum/resources services grade 3Preschool/childcare services grade 3ABoarding supervision services grade 3Wellbeing services grade 2School administration services grade 4School operational services grade 4,Level 4.1,
+Instructional services grade 3,Level 4.2,
+Curriculum/resources services grade 4Preschool/childcare services grade 4Boarding supervision services grade 4School administration services grade 5School operational services grade 5Instructional services grade 4,Level 5.1,
+Preschool/childcare services grade 5Instructional services grade 5Wellbeing services grade 3Nursing services grade 1School administration services grade 6School operational services grade 6,Level 6.1,
+Wellbeing services grade 4Nursing services grade 2School administration services grade 7,Level 7.1,
+Preschool/childcare services grade 6 (1–39 places),Level 7.2,
+Preschool/childcare services grade 6 (40–59 places),Level 7.3,
+Nursing services grade 3Preschool/childcare services grade 6 (60 or more places)Wellbeing services grade 5School administration services grade 8,Level 8,
